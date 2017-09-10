@@ -2,10 +2,15 @@ Welcome to HostScanner!
 ===================
 
 Created By: **Milad Khoshdel**
+
 Special Thanks:  **Mikili**
+
 Blog: https://blog.regux.com
+
 Email: miladkhoshdel@gmail.com
+
 Telegram: @miladkho5hdel 
+
 
 ----------
 
